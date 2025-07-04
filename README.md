@@ -4,10 +4,10 @@ A simple Python project that demonstrates image encryption and decryption by man
 ## How It Works<br>
 The encryption and decryption process modifies the Red, Green, and Blue (RGB) values of each pixel using a user-provided integer key:
 
-# Encryption<br>
+**Encryption**<br>
 Encrypted_value = (Original_value + key) % 256
 
-# Decryption<br>
+**Decryption**<br>
 Decrypted_value = (Encrypted_value - key) % 256<br>
 This ensures the image can be perfectly recovered if the same key is used.
 
