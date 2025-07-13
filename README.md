@@ -46,10 +46,6 @@ Enter file paths and key
 
 View the resulting images
 
-**License**<br>
-This project is licensed under the MIT License.<br>
-Feel free to use, modify, and share it!
-
 **Author**
 Gagan V B
 https://github.com/Gaganvb04
